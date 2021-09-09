@@ -57,6 +57,13 @@
 -   [React is ❤️ But is not enough to get a job](https://saurav0705.medium.com/react-is-%EF%B8%8F-but-is-not-enough-to-get-a-job-9aca343932d0?source=rss-e744e5fc534e------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+<br/>
+
+### Github Stats:
+
+[![Sauravs's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav0705&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 [medium]: https://saurav0705.medium.com/
