@@ -49,12 +49,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Interviews, Rejections, and Dilemma](https://saurav0705.medium.com/interviews-rejections-and-dilemma-e5959a99d1c?source=rss-e744e5fc534e------2)
--   [Debouncing In Javascript](https://saurav0705.medium.com/debouncing-in-javascript-d3faa889aaf?source=rss-e744e5fc534e------2)
--   [How to make a Tooltip in ReactJS](https://saurav0705.medium.com/how-to-make-a-tooltip-in-reactjs-214679ba02d0?source=rss-e744e5fc534e------2)
--   [Basic Git Commands A dev Should know](https://saurav0705.medium.com/basic-git-commands-a-dev-should-know-1d6a022e369d?source=rss-e744e5fc534e------2)
--   [React is ❤️ But is not enough to get a job](https://saurav0705.medium.com/react-is-%EF%B8%8F-but-is-not-enough-to-get-a-job-9aca343932d0?source=rss-e744e5fc534e------2)
+- [Interviews, Rejections, and Dilemma](https://saurav0705.medium.com/interviews-rejections-and-dilemma-e5959a99d1c?source=rss-e744e5fc534e------2)
+- [Debouncing In Javascript](https://saurav0705.medium.com/debouncing-in-javascript-d3faa889aaf?source=rss-e744e5fc534e------2)
+- [How to make a Tooltip in ReactJS](https://saurav0705.medium.com/how-to-make-a-tooltip-in-reactjs-214679ba02d0?source=rss-e744e5fc534e------2)
+- [Basic Git Commands A dev Should know](https://saurav0705.medium.com/basic-git-commands-a-dev-should-know-1d6a022e369d?source=rss-e744e5fc534e------2)
+- [React is ❤️ But is not enough to get a job](https://saurav0705.medium.com/react-is-%EF%B8%8F-but-is-not-enough-to-get-a-job-9aca343932d0?source=rss-e744e5fc534e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
