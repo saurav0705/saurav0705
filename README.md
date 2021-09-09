@@ -13,13 +13,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com/saurav0705" width="22px" style="margin:2px 10px; margin-top:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="github.com/saurav0705" width="22px" style="margin:2px 10px; margin-top:10px; filter: invert(60%);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px"  style="margin:2px 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn"  style="margin:2px 10px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="margin:2px 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px"  style="margin:2px 10px; filter: invert(60%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn"  style="margin:2px 10px; filter: invert(60%);" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="margin:2px 10px; filter: invert(60%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br/>
@@ -40,7 +40,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
@@ -49,11 +49,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Interviews, Rejections, and Dilemma](https://saurav0705.medium.com/interviews-rejections-and-dilemma-e5959a99d1c?source=rss-e744e5fc534e------2)
-- [Debouncing In Javascript](https://saurav0705.medium.com/debouncing-in-javascript-d3faa889aaf?source=rss-e744e5fc534e------2)
-- [How to make a Tooltip in ReactJS](https://saurav0705.medium.com/how-to-make-a-tooltip-in-reactjs-214679ba02d0?source=rss-e744e5fc534e------2)
-- [Basic Git Commands A dev Should know](https://saurav0705.medium.com/basic-git-commands-a-dev-should-know-1d6a022e369d?source=rss-e744e5fc534e------2)
-- [React is ❤️ But is not enough to get a job](https://saurav0705.medium.com/react-is-%EF%B8%8F-but-is-not-enough-to-get-a-job-9aca343932d0?source=rss-e744e5fc534e------2)
+
+-   [Interviews, Rejections, and Dilemma](https://saurav0705.medium.com/interviews-rejections-and-dilemma-e5959a99d1c?source=rss-e744e5fc534e------2)
+-   [Debouncing In Javascript](https://saurav0705.medium.com/debouncing-in-javascript-d3faa889aaf?source=rss-e744e5fc534e------2)
+-   [How to make a Tooltip in ReactJS](https://saurav0705.medium.com/how-to-make-a-tooltip-in-reactjs-214679ba02d0?source=rss-e744e5fc534e------2)
+-   [Basic Git Commands A dev Should know](https://saurav0705.medium.com/basic-git-commands-a-dev-should-know-1d6a022e369d?source=rss-e744e5fc534e------2)
+-   [React is ❤️ But is not enough to get a job](https://saurav0705.medium.com/react-is-%EF%B8%8F-but-is-not-enough-to-get-a-job-9aca343932d0?source=rss-e744e5fc534e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
