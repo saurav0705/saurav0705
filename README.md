@@ -48,11 +48,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Queue Time Bottlenecks i GitHub Actions](https://saurav0705.medium.com/solving-queue-time-bottlenecks-i-github-actions-ef1921c18295?source=rss-e744e5fc534e------2)
 - [Optimization Done that made App slower &lpar;React Native Edition&rpar;](https://saurav0705.medium.com/optimization-done-that-made-app-slower-react-native-edition-2fa07d518f4?source=rss-e744e5fc534e------2)
 - [Frontend Project Ideas  That are fun and different](https://saurav0705.medium.com/react-project-ideas-that-is-fun-and-different-ee67db64ee1e?source=rss-e744e5fc534e------2)
 - [Dawn of Applications &lpar;ReactJs&rpar;](https://saurav0705.medium.com/dawn-of-applications-reactjs-18e98e72fb49?source=rss-e744e5fc534e------2)
 - [Interviews, Rejections, and Dilemma](https://saurav0705.medium.com/interviews-rejections-and-dilemma-e5959a99d1c?source=rss-e744e5fc534e------2)
-- [Debouncing In Javascript](https://saurav0705.medium.com/debouncing-in-javascript-d3faa889aaf?source=rss-e744e5fc534e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
